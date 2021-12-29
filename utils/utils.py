@@ -25,3 +25,5 @@ def log_save(user, request, flag, message, log_type):
     )
     log.save()
 
+"""
+"""
